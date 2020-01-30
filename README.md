@@ -6,7 +6,7 @@ A new pentesting virtual environment for the IoT Devices Pentesting
 
 *******************************************************************************************************************************
 
-![](https://github.com/IoT-PTv/IoT-PT/blob/master/My-Post-_2_.jpg)
+![](https://github.com/IoT-PTv/IoT-PT/blob/master/IoT-PT(w).jpg)
 
 
 ******************************************************************************************************************************
