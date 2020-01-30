@@ -11,7 +11,7 @@ A new pentesting virtual environment for the IoT Devices Pentesting
 
 ******************************************************************************************************************************
 
-![](https://github.com/V33RU/IoT-PT/blob/master/IoT-PT1.png)
+![](https://github.com/IoT-PTv/IoT-PT/blob/master/IoT-PT1.png)
 
 
 ******************************************************************************************************************************
