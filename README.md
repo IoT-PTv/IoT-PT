@@ -1,6 +1,6 @@
 # IoT-PT OSv1
 
-A new pentesting virtual environment for the IoT Devices Pentesting
+A new pentesting virtual environment for IoT Devices Pentesting
 
 
 
