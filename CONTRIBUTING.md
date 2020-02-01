@@ -1,7 +1,7 @@
 
 # Contribution Guidelines
 
-This OVA image developed by me , nothing great i did i just used internal configuration as version 1, version 2 will be complete automated with tools packages. Contibution to this project apreciate and recognize all [contributors](#contributors).
+This OVA image developed by me , nothing greati just did a internal configuration for version 1, version 2 will be complete automated with tools packages. Contibution to this project apreciate and recognize all [contributors](#contributors).
 
 ## Ideas!
 
