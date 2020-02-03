@@ -8,7 +8,7 @@ Download Link : https://drive.google.com/open?id=1XwGqkLax2irSPpwEpeAqypl9vEywzw
 `MD5 : 4cf3939fc94d55af27d0c2668cd0b025
 SHA1: 0e5a21dd1d885c0cfe827fa5fa1c9ab668c088db`
 
-___`username : iotpt
+___`username : iotpt ;
 password : iot1`___
 
 
