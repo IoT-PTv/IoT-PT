@@ -24,3 +24,7 @@ password : iot1`___
 
 ******************************************************************************************************************************
 
+- To Develop OpenSource Hardware Lab 
+- To Develop OS More reliable
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y81EJG9)
