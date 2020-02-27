@@ -1,6 +1,6 @@
 # IoT-PT OSv1
 
-A new pentesting virtual environment for IoT Devices Pentesting
+A new pentesting virtual environment for IoT Devices 
 
 
 Download Link : https://drive.google.com/open?id=1XwGqkLax2irSPpwEpeAqypl9vEywzw3D
