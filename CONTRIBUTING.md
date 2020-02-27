@@ -5,15 +5,15 @@
    
 ***************************************************************************************************************************************
    
-This OVA image developed by me , nothing greati just did a internal configuration for version 1, version 2 will be complete automated with tools packages. Contibution to this project apreciate and recognize all [contributors](#contributors).
+This OVA image developed by me , nothing great i just did a internal configuration for version 1, but version 2 will be complete automated with tools packages. To Contribute to this project just the repo or drop me a personal email at : v33raiot@hotmail.com [contributors](#contributors).
 
 ****************************************************************************************************************************************
 
-## Ideas!
+## Ideas! are bullet proof
 
-To create more efficient one 
+Waitfing from you 
 
 ****************************************************************************************************************************************
 ## Contributors
 
-[Anant Shrivastava](https://anantshri.info/) -- thank you for guidelines
+[Anant Shrivastava](https://anantshri.info/) -- thank you for your guidelines
