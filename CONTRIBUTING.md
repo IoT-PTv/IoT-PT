@@ -5,7 +5,7 @@
    
 ***************************************************************************************************************************************
    
-This OVA image developed by me , we just did a internal configuration for version 1 due to dependencies errors of supporting IoT devices, In version 2 will be complete automated with tools packages. To Contribute to this project just the repo or drop me a personal email at : v33raiot@hotmail.com [contributors](#contributors).
+This OVA image developed for Pentesting IoT Devices. To Contribute to this project just drop me a personal email at : v33raiot@hotmail.com [contributors](#contributors).
 
 ****************************************************************************************************************************************
 
