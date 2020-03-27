@@ -11,9 +11,9 @@ SHA1: 8828d693dc6c809377bab40d2bc26f525685e287`
 --------------------------------------------------------------------------------------------------------------------------
 ##### OS info 
 
-`Base OS : Lubuntu 18.04 LTS
-Processors : 2 (By default 4)
-RAM : 3GB (By default 8)`
+- `Base OS : Lubuntu 18.04 LTS`
+- `Processors : 2 (By default 4)`
+- `RAM : 3GB (By default 8)`
 
 ___`username : iotpt ;
 password : iot1`___
