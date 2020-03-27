@@ -8,7 +8,9 @@ Download Link : https://drive.google.com/open?id=1XwGqkLax2irSPpwEpeAqypl9vEywzw
 `MD5 : d9c20057b14cfa3fb25f744813b828df ;
 SHA1: 8828d693dc6c809377bab40d2bc26f525685e287`
 
-OS info 
+--------------------------------------------------------------------------------------------------------------------------
+##### OS info 
+
 `Base OS : Lubuntu 18.04 LTS
 Processors : 2 (By default 4)
 RAM : 3GB (By default 8)`
