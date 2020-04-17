@@ -9,6 +9,10 @@ Download Link : https://drive.google.com/open?id=1XwGqkLax2irSPpwEpeAqypl9vEywzw
 SHA1: 8828d693dc6c809377bab40d2bc26f525685e287`
 
 --------------------------------------------------------------------------------------------------------------------------
+
+##### IoT-PT Support
+* *****Open Contribution:*** Support and Ideas : [SlackChannel : iot-pt.slack.com](SlackChannel : iot-pt.slack.com)
+
 ##### OS info and Requirements
 
 - `Base OS : Lubuntu 18.04 LTS`
