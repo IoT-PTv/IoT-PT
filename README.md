@@ -12,7 +12,7 @@ SHA1: 8828d693dc6c809377bab40d2bc26f525685e287`
 --------------------------------------------------------------------------------------------------------------------------
 
 ##### IoT-PT Support
-* ***Open Contribution:*** Support and Ideas : ![<i class="fab fa-telegram"></i>](https://t.me/iotpt)
+* ***Open Contribution:*** Support and Ideas : <i class="fab fa-telegram"></i>
 
 ##### OS info and Requirements
 
