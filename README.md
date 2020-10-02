@@ -1,6 +1,6 @@
 # IoT-PT OSv1
 
-##### [Documentation](https://mr-iot.gitbook.io/iot-penetration-testing-guide/untitled/iot-pt-os)
+#### [Documentation](https://mr-iot.gitbook.io/iot-penetration-testing-guide/untitled/iot-pt-os)
 
 ----------------------------------------------------------------------------------------------------------------------
 
