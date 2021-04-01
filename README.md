@@ -4,10 +4,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-<a href="https://www.buymeacoffee.com/mriot" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
----------------------------------------------------------------------------------------------------------------------
-
 A new pentesting virtual environment for IoT Devices 
 
 
@@ -32,16 +28,13 @@ SHA1: 8828d693dc6c809377bab40d2bc26f525685e287`
 ___`username : iotpt ;
 password : iot1`___
 
-
 *******************************************************************************************************************************
 
 ![](https://github.com/IoT-PTv/IoT-PT/blob/master/IoT-PT(w).jpg)
 
-
 ******************************************************************************************************************************
 
 ![](https://github.com/IoT-PTv/IoT-PT/blob/master/IoT-PT1.png)
-
 
 ******************************************************************************************************************************
 # To Do:-
@@ -49,6 +42,6 @@ password : iot1`___
 - [To Develop OpenSource Hardware Lab](https://github.com/IoT-PTv/OpenSource-Hardware-Lab)
 - To Develop OS More reliable
 
+---------------------------------------------------------------------------------------------------------------------
 
-
-
+<a href="https://www.buymeacoffee.com/mriot" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
