@@ -37,6 +37,12 @@ password : iot1`___
 ![](https://github.com/IoT-PTv/IoT-PT/blob/master/IoT-PT1.png)
 
 ******************************************************************************************************************************
+VMWare Issue:
+https://github.com/IoT-PTv/IoT-PT/issues/4#issuecomment-1008296787
+
+
+******************************************************************************************************************************
+
 # To Do:-
 
 - [To Develop OpenSource Hardware Lab](https://github.com/IoT-PTv/OpenSource-Hardware-Lab)
