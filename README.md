@@ -1,12 +1,15 @@
 # IoT-PT OSv1
+### ***Internet of Things Penetration Testing OS Version 1***
 
 [![Documentation](https://img.shields.io/badge/Documentation-Read%20Now-brightgreen)](https://mr-iot.gitbook.io/iot-penetration-testing-guide/untitled/iot-pt-os)
 
 A new pentesting virtual environment for IoT Devices
 
 **Download Link**: [Download IoT-PT OSv1](https://bit.ly/3zYB6HO)
+```bash
 - MD5: d9c20057b14cfa3fb25f744813b828df
 - SHA1: 8828d693dc6c809377bab40d2bc26f525685e287
+```
 
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/v33ru)
 
@@ -26,7 +29,7 @@ A new pentesting virtual environment for IoT Devices
 
 | Username | Password |
 |----------|----------|
-| **iotpt** | **iot1** |
+| ***iotpt*** | ***iot1*** |
 
 ![IoT-PT OSv1](https://github.com/IoT-PTv/IoT-PT/raw/master/IoT-PT(w).jpg)
 
