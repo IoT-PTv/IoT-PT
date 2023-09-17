@@ -31,7 +31,7 @@ A new pentesting virtual environment for IoT Devices
 |----------|----------|
 | ***iotpt*** | ***iot1*** |
 
-![IoT-PT OSv1](https://raw.githubusercontent.com/IoT-PTv/IoT-PT/master/Wallpapers/Final-logo-5.jpg)
+![IoT-PT OSv1](https://raw.githubusercontent.com/IoT-PTv/IoT-PT/master/Wallpapers/iotpt1.png)
 
 ![IoT-PT OSv1 Screenshot](https://github.com/IoT-PTv/IoT-PT/raw/master/IoT-PT1.png)
 
