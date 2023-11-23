@@ -1,7 +1,7 @@
 # IoT-PT OSv1
 ### ***Internet of Things Penetration Testing OS Version 1***
 
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20Now-brightgreen)](https://mr-iot.gitbook.io/iot-penetration-testing-guide/untitled/iot-pt-os)
+[![Documentation](https://img.shields.io/badge/Documentation-Read%20Now-brightgreen)](https://mr-iot.gitbook.io/iot-penetration-testing-guide/iot-pt-os-v1)
 
 A new pentesting virtual environment for IoT Devices
 
