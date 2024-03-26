@@ -43,4 +43,4 @@ A new pentesting virtual environment for IoT Devices
 - Improve OS reliability
 
 ## Explained IoT-PT OS
-- ![](/wallpapers/IoT-PT OS.png)
+- ![](https://raw.githubusercontent.com/IoT-PTv/IoT-PT/master/wallpapers/IoT-PT%20OS.png)
