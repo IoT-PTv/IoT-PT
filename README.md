@@ -41,3 +41,6 @@ A new pentesting virtual environment for IoT Devices
 
 - [Develop OpenSource Hardware Lab](https://github.com/IoT-PTv/OpenSource-Hardware-Lab)
 - Improve OS reliability
+
+## Explained IoT-PT OS
+- ![](wallpapers/IoT-PT OS.png)
