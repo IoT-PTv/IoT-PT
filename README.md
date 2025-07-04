@@ -94,4 +94,4 @@ SHA1: 8828d693dc6c809377bab40d2bc26f525685e287
 
 ---
 
-> 👾 Built by passionate hackers and contributors in the IoT Security Research Community
+> 👾 Built by passionate hackers and contributors in the IoT Security Research Group
